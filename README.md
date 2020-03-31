@@ -1,5 +1,7 @@
 # weatherapp
 
+![Alt text](./src/assets/readme-illustration.png "Weather App")
+
 ## Project setup
 ```
 npm install
